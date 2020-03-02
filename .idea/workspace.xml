@@ -1,11 +1,24 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="db325d62-6a89-431e-8db8-e747dcf62788" name="Default Changelist" comment="" />
+    <list default="true" id="db325d62-6a89-431e-8db8-e747dcf62788" name="Default Changelist" comment="">
+      <change beforePath="$PROJECT_DIR$/.idea/misc.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/db.sqlite3" beforeDir="false" afterPath="$PROJECT_DIR$/db.sqlite3" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/django_demo/urls.py" beforeDir="false" afterPath="$PROJECT_DIR$/django_demo/urls.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/tasker/admin.py" beforeDir="false" afterPath="$PROJECT_DIR$/tasker/admin.py" afterDir="false" />
+    </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
     <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="HTML File" />
+      </list>
+    </option>
   </component>
   <component name="Git.Settings">
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
@@ -18,14 +31,19 @@
     </option>
   </component>
   <component name="ProjectId" id="1YRJ80NwlVIZcD8JufGXDEoHPxQ" />
-  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true">
+    <ConfirmationsSetting value="2" id="Add" />
+  </component>
   <component name="ProjectViewState">
     <option name="hideEmptyMiddlePackages" value="true" />
     <option name="showExcludedFiles" value="true" />
     <option name="showLibraryContents" value="true" />
   </component>
   <component name="PropertiesComponent">
+    <property name="ASKED_ADD_EXTERNAL_FILES" value="true" />
+    <property name="DefaultHtmlFileTemplate" value="HTML File" />
     <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
+    <property name="settings.editor.selected.configurable" value="preferences.pluginManager" />
   </component>
   <component name="SvnConfiguration">
     <configuration />
@@ -38,12 +56,45 @@
       <option name="presentableId" value="Default" />
       <updated>1582899309323</updated>
     </task>
+    <task id="LOCAL-00001" summary="second comm">
+      <created>1583158400509</created>
+      <option name="number" value="00001" />
+      <option name="presentableId" value="LOCAL-00001" />
+      <option name="project" value="LOCAL" />
+      <updated>1583158400510</updated>
+    </task>
+    <option name="localTasksCounter" value="2" />
     <servers />
   </component>
+  <component name="VcsManagerConfiguration">
+    <option name="ADD_EXTERNAL_FILES_SILENTLY" value="true" />
+    <MESSAGE value="second comm" />
+    <option name="LAST_COMMIT_MESSAGE" value="second comm" />
+  </component>
   <component name="WindowStateProjectService">
-    <state x="662" y="347" key="com.intellij.ide.util.TipDialog" timestamp="1582899314113">
+    <state x="225" y="134" key="#Notifications" timestamp="1583157828642">
       <screen x="0" y="0" width="1920" height="1040" />
     </state>
-    <state x="662" y="347" key="com.intellij.ide.util.TipDialog/0.0.1920.1040/1920.0.1920.1040@0.0.1920.1040" timestamp="1582899314113" />
+    <state x="225" y="134" key="#Notifications/0.0.1920.1040/1920.0.1920.1040@0.0.1920.1040" timestamp="1583157828642" />
+    <state x="392" y="282" key="#com.intellij.fileTypes.FileTypeChooser" timestamp="1583159040917">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state x="392" y="282" key="#com.intellij.fileTypes.FileTypeChooser/0.0.1920.1040/1920.0.1920.1040@0.0.1920.1040" timestamp="1583159040917" />
+    <state x="102" y="66" width="975" height="804" key="CommitChangelistDialog2" timestamp="1583158399546">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state x="102" y="66" width="975" height="804" key="CommitChangelistDialog2/0.0.1920.1040/1920.0.1920.1040@0.0.1920.1040" timestamp="1583158399546" />
+    <state x="285" y="165" key="SettingsEditor" timestamp="1583153605937">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state x="285" y="165" key="SettingsEditor/0.0.1920.1040/1920.0.1920.1040@0.0.1920.1040" timestamp="1583153605937" />
+    <state x="225" y="208" key="Vcs.Push.Dialog.v2" timestamp="1583159163410">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state x="225" y="208" key="Vcs.Push.Dialog.v2/0.0.1920.1040/1920.0.1920.1040@0.0.1920.1040" timestamp="1583159163410" />
+    <state x="662" y="347" key="com.intellij.ide.util.TipDialog" timestamp="1583151870569">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state x="662" y="347" key="com.intellij.ide.util.TipDialog/0.0.1920.1040/1920.0.1920.1040@0.0.1920.1040" timestamp="1583151870569" />
   </component>
 </project>

@@ -19,6 +19,6 @@ from django.contrib import admin
 from tasker import views
 
 urlpatterns = [
-    url(r'^admin/', admin.site.urls),
-    path("", views.index)
+    path('admin/', admin.site.urls),
+    path('', views.index)
 ]
